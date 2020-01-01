@@ -19,8 +19,8 @@ It also allows to separate verbal and non-verbal vocalizations (laughs, yawns, e
 3. In Getting started, use the 3rd option: `./install.sh`
 - OpenBLAS (`apt-get install libopenblas-dev libopenblas-base`)
 - `sudo apt install gfortran`
-- First, run `./install.sh`. Change the openfst url in `ext/kaldi/tools/Makefile`: Change `http://openfst.cs.nyu.edu/twiki/pub/FST/FstDownload/openfst-$(OPENFST_VERSION).tar.gz`. Then, run `./install.sh`.
-to `http://openfst.org/twiki/pub/FST/FstDownload/openfst-$(OPENFST_VERSION).tar.gz`.
+- First, run `./install.sh`. Change the openfst url in `ext/kaldi/tools/Makefile`: Change `http://openfst.cs.nyu.edu/twiki/pub/FST/FstDownload/openfst-$(OPENFST_VERSION).tar.gz`
+to `http://openfst.org/twiki/pub/FST/FstDownload/openfst-$(OPENFST_VERSION).tar.gz`. Then, run `./install.sh`.
 4. Copy align_db.py in the repository
 5. In align_db.py, change the "path" variable so that it corresponds to the path of EmoV-DB.
 6. Launch command "python align_db.py". You'll probably have to install some packages to make it work
