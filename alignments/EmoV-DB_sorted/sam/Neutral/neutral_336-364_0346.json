@@ -1,0 +1,69 @@
+{
+  "transcript": "Get down and dig in.",
+  "words": [
+    {
+      "alignedWord": "get",
+      "case": "success",
+      "end": 2.03,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 0,
+      "word": "Get"
+    },
+    {
+      "alignedWord": "down",
+      "case": "success",
+      "end": 2.0599999999999996,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 4,
+      "word": "down"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 9,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 13,
+      "word": "dig"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 19,
+      "startOffset": 17,
+      "word": "in"
+    }
+  ]
+}

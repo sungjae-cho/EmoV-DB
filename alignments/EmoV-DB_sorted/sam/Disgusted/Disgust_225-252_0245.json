@@ -1,0 +1,103 @@
+{
+  "transcript": "Out of his eighteen hundred, he laid aside sixteen hundred each year.",
+  "words": [
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 8.799999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 8.78,
+      "startOffset": 0,
+      "word": "Out"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 8.82,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 8.8,
+      "startOffset": 4,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 10,
+      "startOffset": 7,
+      "word": "his"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 19,
+      "startOffset": 11,
+      "word": "eighteen"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 20,
+      "word": "hundred"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 29,
+      "word": "he"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 36,
+      "startOffset": 32,
+      "word": "laid"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 42,
+      "startOffset": 37,
+      "word": "aside"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 50,
+      "startOffset": 43,
+      "word": "sixteen"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 58,
+      "startOffset": 51,
+      "word": "hundred"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 63,
+      "startOffset": 59,
+      "word": "each"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 68,
+      "startOffset": 64,
+      "word": "year"
+    }
+  ]
+}

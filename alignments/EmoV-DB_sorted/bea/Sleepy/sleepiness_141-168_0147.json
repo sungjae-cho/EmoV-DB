@@ -1,0 +1,122 @@
+{
+  "transcript": "A moment before he was intoxicated by a joy that was almost madness.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 8,
+      "startOffset": 2,
+      "word": "moment"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 15,
+      "startOffset": 9,
+      "word": "before"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 18,
+      "startOffset": 16,
+      "word": "he"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 19,
+      "word": "was"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 23,
+      "word": "intoxicated"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 37,
+      "startOffset": 35,
+      "word": "by"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 9.14,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 9.13,
+      "startOffset": 38,
+      "word": "a"
+    },
+    {
+      "alignedWord": "joy",
+      "case": "success",
+      "end": 9.159999,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 9.139999,
+      "startOffset": 40,
+      "word": "joy"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 9.19,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 9.16,
+      "startOffset": 44,
+      "word": "that"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 52,
+      "startOffset": 49,
+      "word": "was"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 59,
+      "startOffset": 53,
+      "word": "almost"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 67,
+      "startOffset": 60,
+      "word": "madness"
+    }
+  ]
+}

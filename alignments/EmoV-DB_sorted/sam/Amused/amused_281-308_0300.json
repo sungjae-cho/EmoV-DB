@@ -1,0 +1,211 @@
+{
+  "transcript": "From my earliest recollection my sleep was a period of terror.",
+  "words": [
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 4.3500000000000005,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.32,
+      "startOffset": 0,
+      "word": "From"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 4.409999999999999,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 4.35,
+      "startOffset": 5,
+      "word": "my"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 8,
+      "word": "earliest"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 17,
+      "word": "recollection"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 32,
+      "startOffset": 30,
+      "word": "my"
+    },
+    {
+      "alignedWord": "sleep",
+      "case": "success",
+      "end": 4.86,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_E"
+        }
+      ],
+      "start": 4.46,
+      "startOffset": 33,
+      "word": "sleep"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 5.62,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.44,
+      "startOffset": 39,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 5.63,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 5.62,
+      "startOffset": 43,
+      "word": "a"
+    },
+    {
+      "alignedWord": "period",
+      "case": "success",
+      "end": 6.12,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.8100000000000005,
+      "startOffset": 45,
+      "word": "period"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 7.09,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 6.91,
+      "startOffset": 52,
+      "word": "of"
+    },
+    {
+      "alignedWord": "terror",
+      "case": "success",
+      "end": 8.120000000000001,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.42,
+          "phone": "er_E"
+        }
+      ],
+      "start": 7.13,
+      "startOffset": 55,
+      "word": "terror"
+    }
+  ]
+}

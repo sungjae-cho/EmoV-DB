@@ -1,0 +1,77 @@
+{
+  "transcript": "I am going to surprise father, and you will go with Pierre.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 4,
+      "startOffset": 2,
+      "word": "am"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 10,
+      "startOffset": 5,
+      "word": "going"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 13,
+      "startOffset": 11,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 14,
+      "word": "surprise"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 23,
+      "word": "father"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 31,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 38,
+      "startOffset": 35,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 43,
+      "startOffset": 39,
+      "word": "will"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 46,
+      "startOffset": 44,
+      "word": "go"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 51,
+      "startOffset": 47,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 58,
+      "startOffset": 52,
+      "word": "Pierre"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "transcript": "The nightglow was treacherous to shoot by.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 3,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 13,
+      "startOffset": 4,
+      "word": "nightglow"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.03,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 14,
+      "word": "was"
+    },
+    {
+      "alignedWord": "treacherous",
+      "case": "success",
+      "end": 0.1,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.03,
+      "startOffset": 18,
+      "word": "treacherous"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 30,
+      "word": "to"
+    },
+    {
+      "alignedWord": "shoot",
+      "case": "success",
+      "end": 2.1799999999999997,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 33,
+      "word": "shoot"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 39,
+      "word": "by"
+    }
+  ]
+}

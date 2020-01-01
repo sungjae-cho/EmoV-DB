@@ -1,0 +1,137 @@
+{
+  "transcript": "He had worshiped her, as Dante might have worshiped Beatrice.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 6.56,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 6.54,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 6.6499999999999995,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.56,
+      "startOffset": 3,
+      "word": "had"
+    },
+    {
+      "alignedWord": "worshiped",
+      "case": "success",
+      "end": 7.5,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.44,
+          "phone": "t_E"
+        }
+      ],
+      "start": 7.01,
+      "startOffset": 7,
+      "word": "worshiped"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 7.52,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 7.5,
+      "startOffset": 17,
+      "word": "her"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 22,
+      "word": "as"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 25,
+      "word": "Dante"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 36,
+      "startOffset": 31,
+      "word": "might"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 37,
+      "word": "have"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 51,
+      "startOffset": 42,
+      "word": "worshiped"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 60,
+      "startOffset": 52,
+      "word": "Beatrice"
+    }
+  ]
+}

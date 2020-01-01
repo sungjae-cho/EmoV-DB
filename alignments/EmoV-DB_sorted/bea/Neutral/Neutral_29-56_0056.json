@@ -1,0 +1,155 @@
+{
+  "transcript": "Pearce's little eyes were fixed on him shrewdly.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 8,
+      "startOffset": 0,
+      "word": "Pearce's"
+    },
+    {
+      "alignedWord": "little",
+      "case": "success",
+      "end": 0.05,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 9,
+      "word": "little"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 0.07,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.05,
+      "startOffset": 16,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.09000000000000001,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.07,
+      "startOffset": 21,
+      "word": "were"
+    },
+    {
+      "alignedWord": "fixed",
+      "case": "success",
+      "end": 5.04,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.99,
+      "startOffset": 26,
+      "word": "fixed"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 5.06,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.04,
+      "startOffset": 32,
+      "word": "on"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 5.079999999999999,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 5.06,
+      "startOffset": 35,
+      "word": "him"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 47,
+      "startOffset": 39,
+      "word": "shrewdly"
+    }
+  ]
+}

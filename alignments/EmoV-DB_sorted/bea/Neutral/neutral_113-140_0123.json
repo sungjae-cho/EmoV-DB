@@ -1,0 +1,111 @@
+{
+  "transcript": "She had died from cold and starvation.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.51,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 4,
+      "word": "had"
+    },
+    {
+      "alignedWord": "died",
+      "case": "success",
+      "end": 3.07,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 8,
+      "word": "died"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 3.0999999999999996,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 13,
+      "word": "from"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 18,
+      "word": "cold"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 26,
+      "startOffset": 23,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 37,
+      "startOffset": 27,
+      "word": "starvation"
+    }
+  ]
+}

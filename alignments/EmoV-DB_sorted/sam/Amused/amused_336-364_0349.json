@@ -1,0 +1,237 @@
+{
+  "transcript": "It was simple, in its way, and no virtue of his.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 4.0,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.98,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 4.04,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.0,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "simple",
+      "case": "success",
+      "end": 4.1,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.04,
+      "startOffset": 7,
+      "word": "simple"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.04,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.02,
+      "startOffset": 15,
+      "word": "in"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 5.369999999999999,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.039999999999999,
+      "startOffset": 18,
+      "word": "its"
+    },
+    {
+      "alignedWord": "way",
+      "case": "success",
+      "end": 5.869999999999999,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 5.85,
+      "startOffset": 22,
+      "word": "way"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 5.8999999999999995,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.869999999999999,
+      "startOffset": 27,
+      "word": "and"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 5.92,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 5.8999999999999995,
+      "startOffset": 31,
+      "word": "no"
+    },
+    {
+      "alignedWord": "virtue",
+      "case": "success",
+      "end": 5.96,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 5.92,
+      "startOffset": 34,
+      "word": "virtue"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 5.9799999999999995,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 5.96,
+      "startOffset": 41,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 47,
+      "startOffset": 44,
+      "word": "his"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "transcript": "In the picture he saw each moment a greater resemblance to Jeanne.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 2,
+      "startOffset": 0,
+      "word": "In"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 6,
+      "startOffset": 3,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 14,
+      "startOffset": 7,
+      "word": "picture"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 17,
+      "startOffset": 15,
+      "word": "he"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 21,
+      "startOffset": 18,
+      "word": "saw"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 26,
+      "startOffset": 22,
+      "word": "each"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 33,
+      "startOffset": 27,
+      "word": "moment"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 34,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 43,
+      "startOffset": 36,
+      "word": "greater"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 55,
+      "startOffset": 44,
+      "word": "resemblance"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 58,
+      "startOffset": 56,
+      "word": "to"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.02,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.01,
+      "startOffset": 59,
+      "word": "Jeanne"
+    }
+  ]
+}

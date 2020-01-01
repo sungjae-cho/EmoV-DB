@@ -1,0 +1,47 @@
+{
+  "transcript": "Sometimes her dreams were filled with visions.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 9,
+      "startOffset": 0,
+      "word": "Sometimes"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 13,
+      "startOffset": 10,
+      "word": "her"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 20,
+      "startOffset": 14,
+      "word": "dreams"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 25,
+      "startOffset": 21,
+      "word": "were"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 32,
+      "startOffset": 26,
+      "word": "filled"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 37,
+      "startOffset": 33,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 45,
+      "startOffset": 38,
+      "word": "visions"
+    }
+  ]
+}

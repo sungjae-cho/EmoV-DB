@@ -1,0 +1,154 @@
+{
+  "transcript": "Straight out they swam, their heads growing smaller and smaller.",
+  "words": [
+    {
+      "alignedWord": "straight",
+      "case": "success",
+      "end": 3.36,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.31,
+      "startOffset": 0,
+      "word": "Straight"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 3.38,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 9,
+      "word": "out"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 3.4,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 13,
+      "word": "they"
+    },
+    {
+      "alignedWord": "swam",
+      "case": "success",
+      "end": 3.6,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.4,
+      "startOffset": 18,
+      "word": "swam"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 4.08,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.01,
+      "startOffset": 24,
+      "word": "their"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 30,
+      "word": "heads"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 43,
+      "startOffset": 36,
+      "word": "growing"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 51,
+      "startOffset": 44,
+      "word": "smaller"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 55,
+      "startOffset": 52,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 63,
+      "startOffset": 56,
+      "word": "smaller"
+    }
+  ]
+}

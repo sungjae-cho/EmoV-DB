@@ -1,0 +1,114 @@
+{
+  "transcript": "Close beside him gleamed the white fangs of the wolf-dog.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 5,
+      "startOffset": 0,
+      "word": "Close"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 6,
+      "word": "beside"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 13,
+      "word": "him"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 6.18,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 6.17,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.01,
+      "startOffset": 17,
+      "word": "gleamed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 6.199999999999999,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 6.18,
+      "startOffset": 25,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 29,
+      "word": "white"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 40,
+      "startOffset": 35,
+      "word": "fangs"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 43,
+      "startOffset": 41,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 47,
+      "startOffset": 44,
+      "word": "the"
+    },
+    {
+      "alignedWord": "wolf",
+      "case": "success",
+      "end": 6.24,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_E"
+        }
+      ],
+      "start": 6.2,
+      "startOffset": 48,
+      "word": "wolf"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 56,
+      "startOffset": 53,
+      "word": "dog"
+    }
+  ]
+}

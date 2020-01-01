@@ -1,0 +1,200 @@
+{
+  "transcript": "That's where they cut off the Scottish Chiefs and killed all hands.",
+  "words": [
+    {
+      "alignedWord": "that's",
+      "case": "success",
+      "end": 4.89,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.85,
+      "startOffset": 0,
+      "word": "That's"
+    },
+    {
+      "alignedWord": "where",
+      "case": "success",
+      "end": 4.92,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.89,
+      "startOffset": 7,
+      "word": "where"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 4.9399999999999995,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 4.92,
+      "startOffset": 13,
+      "word": "they"
+    },
+    {
+      "alignedWord": "cut",
+      "case": "success",
+      "end": 5.699999999999999,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.67,
+      "startOffset": 18,
+      "word": "cut"
+    },
+    {
+      "alignedWord": "off",
+      "case": "success",
+      "end": 5.72,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_E"
+        }
+      ],
+      "start": 5.699999999999999,
+      "startOffset": 22,
+      "word": "off"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.739999999999999,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.72,
+      "startOffset": 26,
+      "word": "the"
+    },
+    {
+      "alignedWord": "scottish",
+      "case": "success",
+      "end": 5.8,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 5.739999999999999,
+      "startOffset": 30,
+      "word": "Scottish"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 45,
+      "startOffset": 39,
+      "word": "Chiefs"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 49,
+      "startOffset": 46,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 56,
+      "startOffset": 50,
+      "word": "killed"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 60,
+      "startOffset": 57,
+      "word": "all"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 66,
+      "startOffset": 61,
+      "word": "hands"
+    }
+  ]
+}

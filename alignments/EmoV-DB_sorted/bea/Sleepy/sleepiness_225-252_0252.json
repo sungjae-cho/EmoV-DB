@@ -1,0 +1,65 @@
+{
+  "transcript": "O'Brien had been a clean living young man with ideals.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 7,
+      "startOffset": 0,
+      "word": "O'Brien"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 11,
+      "startOffset": 8,
+      "word": "had"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 12,
+      "word": "been"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 18,
+      "startOffset": 17,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 19,
+      "word": "clean"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 25,
+      "word": "living"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 37,
+      "startOffset": 32,
+      "word": "young"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 38,
+      "word": "man"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 46,
+      "startOffset": 42,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 53,
+      "startOffset": 47,
+      "word": "ideals"
+    }
+  ]
+}

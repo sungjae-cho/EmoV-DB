@@ -1,0 +1,53 @@
+{
+  "transcript": "You don't catch me at any such foolishness.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 3,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 9,
+      "startOffset": 4,
+      "word": "don't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 15,
+      "startOffset": 10,
+      "word": "catch"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 18,
+      "startOffset": 16,
+      "word": "me"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 21,
+      "startOffset": 19,
+      "word": "at"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 25,
+      "startOffset": 22,
+      "word": "any"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 26,
+      "word": "such"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 42,
+      "startOffset": 31,
+      "word": "foolishness"
+    }
+  ]
+}

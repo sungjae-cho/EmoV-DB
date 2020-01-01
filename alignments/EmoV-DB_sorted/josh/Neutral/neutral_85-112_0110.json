@@ -1,0 +1,112 @@
+{
+  "transcript": "Much, replied Jeanne, as tersely.",
+  "words": [
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.35,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 0,
+      "word": "Much"
+    },
+    {
+      "alignedWord": "replied",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 6,
+      "word": "replied"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.68,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.48,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.2,
+      "startOffset": 14,
+      "word": "Jeanne"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 2.9299999999999997,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 22,
+      "word": "as"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.47,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 25,
+      "word": "tersely"
+    }
+  ]
+}

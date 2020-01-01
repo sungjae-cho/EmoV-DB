@@ -1,0 +1,186 @@
+{
+  "transcript": "Close beside him gleamed the white fangs of the wolf-dog.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 5,
+      "startOffset": 0,
+      "word": "Close"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 6,
+      "word": "beside"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 13,
+      "word": "him"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 17,
+      "word": "gleamed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.02,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 25,
+      "word": "the"
+    },
+    {
+      "alignedWord": "white",
+      "case": "success",
+      "end": 0.05,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.02,
+      "startOffset": 29,
+      "word": "white"
+    },
+    {
+      "alignedWord": "fangs",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.92,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.05,
+      "startOffset": 35,
+      "word": "fangs"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 41,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 44,
+      "word": "the"
+    },
+    {
+      "alignedWord": "wolf",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 48,
+      "word": "wolf"
+    },
+    {
+      "alignedWord": "dog",
+      "case": "success",
+      "end": 2.71,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_E"
+        }
+      ],
+      "start": 2.5500000000000003,
+      "startOffset": 53,
+      "word": "dog"
+    }
+  ]
+}

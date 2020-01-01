@@ -1,0 +1,210 @@
+{
+  "transcript": "If not, let's say our prayers and go to bed.",
+  "words": [
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 0,
+      "word": "If"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 3,
+      "word": "not"
+    },
+    {
+      "alignedWord": "let's",
+      "case": "success",
+      "end": 3.8,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 8,
+      "word": "let's"
+    },
+    {
+      "alignedWord": "say",
+      "case": "success",
+      "end": 4.18,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 3.8,
+      "startOffset": 14,
+      "word": "say"
+    },
+    {
+      "alignedWord": "our",
+      "case": "success",
+      "end": 4.37,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.19,
+      "startOffset": 18,
+      "word": "our"
+    },
+    {
+      "alignedWord": "prayers",
+      "case": "success",
+      "end": 4.960000000000001,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.44,
+      "startOffset": 22,
+      "word": "prayers"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 5.210000000000001,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.110000000000001,
+      "startOffset": 30,
+      "word": "and"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 6.070000000000001,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 5.8500000000000005,
+      "startOffset": 34,
+      "word": "go"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 6.400000000000001,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 6.3100000000000005,
+      "startOffset": 37,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 43,
+      "startOffset": 40,
+      "word": "bed"
+    }
+  ]
+}

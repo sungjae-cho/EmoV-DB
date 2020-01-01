@@ -1,0 +1,262 @@
+{
+  "transcript": "From that moment his friendship for Belize turns to hatred and jealousy.",
+  "words": [
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 0,
+      "word": "From"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 5,
+      "word": "that"
+    },
+    {
+      "alignedWord": "moment",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 10,
+      "word": "moment"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.57,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.54,
+      "startOffset": 17,
+      "word": "his"
+    },
+    {
+      "alignedWord": "friendship",
+      "case": "success",
+      "end": 3.98,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 21,
+      "word": "friendship"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 4.319999999999999,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.3,
+      "startOffset": 32,
+      "word": "for"
+    },
+    {
+      "alignedWord": "belize",
+      "case": "success",
+      "end": 4.7,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.32,
+      "startOffset": 36,
+      "word": "Belize"
+    },
+    {
+      "alignedWord": "turns",
+      "case": "success",
+      "end": 5.3,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.08,
+      "startOffset": 43,
+      "word": "turns"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 7.92,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 7.9,
+      "startOffset": 49,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 58,
+      "startOffset": 52,
+      "word": "hatred"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 62,
+      "startOffset": 59,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 71,
+      "startOffset": 63,
+      "word": "jealousy"
+    }
+  ]
+}

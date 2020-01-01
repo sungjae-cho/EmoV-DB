@@ -1,0 +1,185 @@
+{
+  "transcript": "The stout wood was crushed like an eggshell.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "stout",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 4,
+      "word": "stout"
+    },
+    {
+      "alignedWord": "wood",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 10,
+      "word": "wood"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.8499999999999996,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 15,
+      "word": "was"
+    },
+    {
+      "alignedWord": "crushed",
+      "case": "success",
+      "end": 3.1300000000000003,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.91,
+      "startOffset": 19,
+      "word": "crushed"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 3.1599999999999997,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 27,
+      "word": "like"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 3.18,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 32,
+      "word": "an"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 35,
+      "word": "eggshell"
+    }
+  ]
+}

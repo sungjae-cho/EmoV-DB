@@ -1,0 +1,65 @@
+{
+  "transcript": "They do not know the length of time of incubation.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 4,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 7,
+      "startOffset": 5,
+      "word": "do"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 11,
+      "startOffset": 8,
+      "word": "not"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 12,
+      "word": "know"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 20,
+      "startOffset": 17,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 21,
+      "word": "length"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 28,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 31,
+      "word": "time"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 38,
+      "startOffset": 36,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 49,
+      "startOffset": 39,
+      "word": "incubation"
+    }
+  ]
+}

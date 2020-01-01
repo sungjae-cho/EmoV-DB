@@ -1,0 +1,256 @@
+{
+  "transcript": "A wildly exciting time was his during the week preceding Thursday the eighteenth.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 6.74,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 6.73,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "wildly",
+      "case": "success",
+      "end": 6.8,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 6.74,
+      "startOffset": 2,
+      "word": "wildly"
+    },
+    {
+      "alignedWord": "exciting",
+      "case": "success",
+      "end": 7.0,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 6.8,
+      "startOffset": 9,
+      "word": "exciting"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 7.3,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 7.27,
+      "startOffset": 18,
+      "word": "time"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 7.33,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 7.3,
+      "startOffset": 23,
+      "word": "was"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 8.08,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 8.05,
+      "startOffset": 27,
+      "word": "his"
+    },
+    {
+      "alignedWord": "during",
+      "case": "success",
+      "end": 8.120000000000001,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 8.08,
+      "startOffset": 31,
+      "word": "during"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 8.14,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 8.120000000000001,
+      "startOffset": 38,
+      "word": "the"
+    },
+    {
+      "alignedWord": "week",
+      "case": "success",
+      "end": 8.18,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "k_E"
+        }
+      ],
+      "start": 8.14,
+      "startOffset": 42,
+      "word": "week"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 56,
+      "startOffset": 47,
+      "word": "preceding"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 65,
+      "startOffset": 57,
+      "word": "Thursday"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 69,
+      "startOffset": 66,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 80,
+      "startOffset": 70,
+      "word": "eighteenth"
+    }
+  ]
+}

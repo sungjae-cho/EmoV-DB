@@ -1,0 +1,108 @@
+{
+  "transcript": "How old are you, daddy.",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 0,
+      "word": "How"
+    },
+    {
+      "alignedWord": "old",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 4,
+      "word": "old"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "er_S"
+        }
+      ],
+      "start": 3.3200000000000003,
+      "startOffset": 8,
+      "word": "are"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 3.35,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 12,
+      "word": "you"
+    },
+    {
+      "alignedWord": "daddy",
+      "case": "success",
+      "end": 3.39,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 17,
+      "word": "daddy"
+    }
+  ]
+}

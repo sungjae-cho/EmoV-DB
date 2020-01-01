@@ -1,0 +1,158 @@
+{
+  "transcript": "As for himself, weren't the street railway earnings increasing steadily.",
+  "words": [
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 7.77,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 7.75,
+      "startOffset": 0,
+      "word": "As"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 7.789999999999999,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 7.77,
+      "startOffset": 3,
+      "word": "for"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 7.86,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_E"
+        }
+      ],
+      "start": 7.79,
+      "startOffset": 7,
+      "word": "himself"
+    },
+    {
+      "alignedWord": "weren't",
+      "case": "success",
+      "end": 7.9,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 7.86,
+      "startOffset": 16,
+      "word": "weren't"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 8.379999999999999,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 8.36,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 28,
+      "word": "street"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 42,
+      "startOffset": 35,
+      "word": "railway"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 51,
+      "startOffset": 43,
+      "word": "earnings"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 62,
+      "startOffset": 52,
+      "word": "increasing"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 71,
+      "startOffset": 63,
+      "word": "steadily"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "transcript": "She had been thoroughly and efficiently mauled.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 4.989999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 5.0200000000000005,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.99,
+      "startOffset": 4,
+      "word": "had"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 8,
+      "word": "been"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 23,
+      "startOffset": 13,
+      "word": "thoroughly"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 24,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 39,
+      "startOffset": 28,
+      "word": "efficiently"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 46,
+      "startOffset": 40,
+      "word": "mauled"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "transcript": "Her own betrayal of herself was like tonic to Philip.",
+  "words": [
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 0.86,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 0,
+      "word": "Her"
+    },
+    {
+      "alignedWord": "own",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 4,
+      "word": "own"
+    },
+    {
+      "alignedWord": "betrayal",
+      "case": "success",
+      "end": 5.140000000000001,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 4.04,
+          "phone": "sil"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 8,
+      "word": "betrayal"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 19,
+      "startOffset": 17,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 20,
+      "word": "herself"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 28,
+      "word": "was"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 36,
+      "startOffset": 32,
+      "word": "like"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 42,
+      "startOffset": 37,
+      "word": "tonic"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 45,
+      "startOffset": 43,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 52,
+      "startOffset": 46,
+      "word": "Philip"
+    }
+  ]
+}

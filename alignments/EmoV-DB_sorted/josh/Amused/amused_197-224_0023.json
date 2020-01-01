@@ -1,0 +1,135 @@
+{
+  "transcript": "A combination of Canadian capital quickly organized and petitioned for the same privileges.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 13,
+      "startOffset": 2,
+      "word": "combination"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 14,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 25,
+      "startOffset": 17,
+      "word": "Canadian"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 33,
+      "startOffset": 26,
+      "word": "capital"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 34,
+      "word": "quickly"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 51,
+      "startOffset": 42,
+      "word": "organized"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 55,
+      "startOffset": 52,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.4,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 1.23,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 56,
+      "word": "petitioned"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.4,
+      "startOffset": 67,
+      "word": "for"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.44,
+      "endOffset": 74,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.42,
+      "startOffset": 71,
+      "word": "the"
+    },
+    {
+      "alignedWord": "same",
+      "case": "success",
+      "end": 3.54,
+      "endOffset": 79,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.44,
+      "startOffset": 75,
+      "word": "same"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 90,
+      "startOffset": 80,
+      "word": "privileges"
+    }
+  ]
+}

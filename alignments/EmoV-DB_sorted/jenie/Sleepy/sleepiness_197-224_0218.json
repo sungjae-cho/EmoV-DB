@@ -1,0 +1,91 @@
+{
+  "transcript": "The ringing of the big bell aroused him.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.5100000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.49,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "ringing",
+      "case": "success",
+      "end": 3.5599999999999996,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.51,
+      "startOffset": 4,
+      "word": "ringing"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 14,
+      "startOffset": 12,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 18,
+      "startOffset": 15,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 19,
+      "word": "big"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 23,
+      "word": "bell"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 28,
+      "word": "aroused"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 39,
+      "startOffset": 36,
+      "word": "him"
+    }
+  ]
+}

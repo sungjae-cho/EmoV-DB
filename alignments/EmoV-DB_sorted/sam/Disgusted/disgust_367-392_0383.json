@@ -1,0 +1,118 @@
+{
+  "transcript": "To his surprise, her answer was flat and uncompromising.",
+  "words": [
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 7.6499999999999995,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 7.63,
+      "startOffset": 0,
+      "word": "To"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 7.680000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 7.65,
+      "startOffset": 3,
+      "word": "his"
+    },
+    {
+      "alignedWord": "surprise",
+      "case": "success",
+      "end": 7.75,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "z_E"
+        }
+      ],
+      "start": 7.68,
+      "startOffset": 7,
+      "word": "surprise"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 20,
+      "startOffset": 17,
+      "word": "her"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 21,
+      "word": "answer"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 28,
+      "word": "was"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 36,
+      "startOffset": 32,
+      "word": "flat"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 40,
+      "startOffset": 37,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 55,
+      "startOffset": 41,
+      "word": "uncompromising"
+    }
+  ]
+}

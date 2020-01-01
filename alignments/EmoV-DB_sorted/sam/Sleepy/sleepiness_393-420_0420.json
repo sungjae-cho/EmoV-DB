@@ -1,0 +1,95 @@
+{
+  "transcript": "When I came to I was waving my hat and murmuring ecstatically.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 4,
+      "startOffset": 0,
+      "word": "When"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 6,
+      "startOffset": 5,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 11,
+      "startOffset": 7,
+      "word": "came"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 14,
+      "startOffset": 12,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 15,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 20,
+      "startOffset": 17,
+      "word": "was"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 21,
+      "word": "waving"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 28,
+      "word": "my"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 31,
+      "word": "hat"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 38,
+      "startOffset": 35,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 1.07,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 39,
+      "word": "murmuring"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 49,
+      "word": "ecstatically"
+    }
+  ]
+}

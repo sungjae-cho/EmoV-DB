@@ -1,0 +1,71 @@
+{
+  "transcript": "Red-Eye swung back and forth on the branch farther down.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 3,
+      "startOffset": 0,
+      "word": "Red"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 7,
+      "startOffset": 4,
+      "word": "Eye"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 13,
+      "startOffset": 8,
+      "word": "swung"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 18,
+      "startOffset": 14,
+      "word": "back"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 19,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 28,
+      "startOffset": 23,
+      "word": "forth"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 29,
+      "word": "on"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 32,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 42,
+      "startOffset": 36,
+      "word": "branch"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 50,
+      "startOffset": 43,
+      "word": "farther"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 55,
+      "startOffset": 51,
+      "word": "down"
+    }
+  ]
+}

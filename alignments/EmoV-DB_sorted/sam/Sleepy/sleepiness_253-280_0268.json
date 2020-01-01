@@ -1,0 +1,83 @@
+{
+  "transcript": "Now go ahead and tell me in a straightforward way what has happened.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 3,
+      "startOffset": 0,
+      "word": "Now"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 6,
+      "startOffset": 4,
+      "word": "go"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 7,
+      "word": "ahead"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 13,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 21,
+      "startOffset": 17,
+      "word": "tell"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 22,
+      "word": "me"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 25,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 28,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 45,
+      "startOffset": 30,
+      "word": "straightforward"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 49,
+      "startOffset": 46,
+      "word": "way"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 54,
+      "startOffset": 50,
+      "word": "what"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 58,
+      "startOffset": 55,
+      "word": "has"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 67,
+      "startOffset": 59,
+      "word": "happened"
+    }
+  ]
+}

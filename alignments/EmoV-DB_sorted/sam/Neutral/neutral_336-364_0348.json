@@ -1,0 +1,81 @@
+{
+  "transcript": "They only lifted seven hundred and fifty.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 5,
+      "word": "only"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 10,
+      "word": "lifted"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 17,
+      "word": "seven"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 23,
+      "word": "hundred"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 31,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 40,
+      "startOffset": 35,
+      "word": "fifty"
+    }
+  ]
+}

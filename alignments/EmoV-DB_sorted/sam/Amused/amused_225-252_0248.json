@@ -1,0 +1,166 @@
+{
+  "transcript": "I had been sad too long already.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 2.8,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.97,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.81,
+      "startOffset": 2,
+      "word": "had"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 3.0,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 6,
+      "word": "been"
+    },
+    {
+      "alignedWord": "sad",
+      "case": "success",
+      "end": 3.12,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.0,
+      "startOffset": 11,
+      "word": "sad"
+    },
+    {
+      "alignedWord": "too",
+      "case": "success",
+      "end": 3.74,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.5,
+      "startOffset": 15,
+      "word": "too"
+    },
+    {
+      "alignedWord": "long",
+      "case": "success",
+      "end": 4.83,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.14,
+      "startOffset": 19,
+      "word": "long"
+    },
+    {
+      "alignedWord": "already",
+      "case": "success",
+      "end": 5.4,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.83,
+      "startOffset": 24,
+      "word": "already"
+    }
+  ]
+}

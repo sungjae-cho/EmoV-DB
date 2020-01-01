@@ -1,0 +1,77 @@
+{
+  "transcript": "I do not blame you for anything; remember that.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 4.1,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.34,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 4.71,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.61,
+          "phone": "sil"
+        }
+      ],
+      "start": 4.1,
+      "startOffset": 2,
+      "word": "do"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 8,
+      "startOffset": 5,
+      "word": "not"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 14,
+      "startOffset": 9,
+      "word": "blame"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 18,
+      "startOffset": 15,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 19,
+      "word": "for"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 23,
+      "word": "anything"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 33,
+      "word": "remember"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 46,
+      "startOffset": 42,
+      "word": "that"
+    }
+  ]
+}

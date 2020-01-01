@@ -1,0 +1,131 @@
+{
+  "transcript": "They are his tongue, by which he makes his knowledge articulate.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 6.68,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 6.66,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 7.840000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_E"
+        }
+      ],
+      "start": 7.61,
+      "startOffset": 5,
+      "word": "are"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 8.74,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 8.71,
+      "startOffset": 9,
+      "word": "his"
+    },
+    {
+      "alignedWord": "tongue",
+      "case": "success",
+      "end": 8.77,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 8.74,
+      "startOffset": 13,
+      "word": "tongue"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 23,
+      "startOffset": 21,
+      "word": "by"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 24,
+      "word": "which"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 32,
+      "startOffset": 30,
+      "word": "he"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 38,
+      "startOffset": 33,
+      "word": "makes"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 42,
+      "startOffset": 39,
+      "word": "his"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 52,
+      "startOffset": 43,
+      "word": "knowledge"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 63,
+      "startOffset": 53,
+      "word": "articulate"
+    }
+  ]
+}

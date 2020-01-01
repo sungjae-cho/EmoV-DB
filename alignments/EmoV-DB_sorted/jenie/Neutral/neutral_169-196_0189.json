@@ -1,0 +1,127 @@
+{
+  "transcript": "The big-eyed, clucking moose-birds were most annoying.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 3,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 7,
+      "startOffset": 4,
+      "word": "big"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 8,
+      "word": "eyed"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 14,
+      "word": "clucking"
+    },
+    {
+      "alignedWord": "moose",
+      "case": "success",
+      "end": 0.03,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 23,
+      "word": "moose"
+    },
+    {
+      "alignedWord": "birds",
+      "case": "success",
+      "end": 0.07,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.03,
+      "startOffset": 29,
+      "word": "birds"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.09000000000000001,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.07,
+      "startOffset": 35,
+      "word": "were"
+    },
+    {
+      "alignedWord": "most",
+      "case": "success",
+      "end": 4.4799999999999995,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 4.37,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.09,
+      "startOffset": 40,
+      "word": "most"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 53,
+      "startOffset": 45,
+      "word": "annoying"
+    }
+  ]
+}

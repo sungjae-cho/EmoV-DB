@@ -1,0 +1,139 @@
+{
+  "transcript": "The wolf-dog thrust his gaunt muzzle toward him.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.82,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "wolf",
+      "case": "success",
+      "end": 2.86,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 4,
+      "word": "wolf"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 9,
+      "word": "dog"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 19,
+      "startOffset": 13,
+      "word": "thrust"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 23,
+      "startOffset": 20,
+      "word": "his"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 24,
+      "word": "gaunt"
+    },
+    {
+      "alignedWord": "muzzle",
+      "case": "success",
+      "end": 3.36,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.28,
+      "startOffset": 30,
+      "word": "muzzle"
+    },
+    {
+      "alignedWord": "toward",
+      "case": "success",
+      "end": 5.14,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.89,
+      "startOffset": 37,
+      "word": "toward"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 47,
+      "startOffset": 44,
+      "word": "him"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "transcript": "Low bush whipped him in the face and left no sting.",
+  "words": [
+    {
+      "alignedWord": "low",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 0,
+      "word": "Low"
+    },
+    {
+      "alignedWord": "bush",
+      "case": "success",
+      "end": 6.65,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 6.48,
+      "startOffset": 4,
+      "word": "bush"
+    },
+    {
+      "alignedWord": "whipped",
+      "case": "success",
+      "end": 8.190000000000001,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 1.54,
+          "phone": "sil"
+        }
+      ],
+      "start": 6.65,
+      "startOffset": 9,
+      "word": "whipped"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 20,
+      "startOffset": 17,
+      "word": "him"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 23,
+      "startOffset": 21,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 32,
+      "startOffset": 28,
+      "word": "face"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 36,
+      "startOffset": 33,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 37,
+      "word": "left"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 44,
+      "startOffset": 42,
+      "word": "no"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 50,
+      "startOffset": 45,
+      "word": "sting"
+    }
+  ]
+}

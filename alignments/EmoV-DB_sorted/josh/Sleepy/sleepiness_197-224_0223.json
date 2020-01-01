@@ -1,0 +1,73 @@
+{
+  "transcript": "My, I'm almost homesick for it already.",
+  "words": [
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 4.109999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 4.09,
+      "startOffset": 0,
+      "word": "My"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 4.13,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.11,
+      "startOffset": 4,
+      "word": "I'm"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 14,
+      "startOffset": 8,
+      "word": "almost"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 23,
+      "startOffset": 15,
+      "word": "homesick"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 24,
+      "word": "for"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 28,
+      "word": "it"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 38,
+      "startOffset": 31,
+      "word": "already"
+    }
+  ]
+}

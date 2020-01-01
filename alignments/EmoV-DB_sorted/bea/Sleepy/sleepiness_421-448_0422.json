@@ -1,0 +1,163 @@
+{
+  "transcript": "Halfway around the track one donkey got into an argument with its rider.",
+  "words": [
+    {
+      "alignedWord": "halfway",
+      "case": "success",
+      "end": 4.97,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 4.92,
+      "startOffset": 0,
+      "word": "Halfway"
+    },
+    {
+      "alignedWord": "around",
+      "case": "success",
+      "end": 5.05,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 8,
+      "word": "around"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.43,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.41,
+      "startOffset": 15,
+      "word": "the"
+    },
+    {
+      "alignedWord": "track",
+      "case": "success",
+      "end": 5.58,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 5.43,
+      "startOffset": 19,
+      "word": "track"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 28,
+      "startOffset": 25,
+      "word": "one"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 29,
+      "word": "donkey"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 39,
+      "startOffset": 36,
+      "word": "got"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 44,
+      "startOffset": 40,
+      "word": "into"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 47,
+      "startOffset": 45,
+      "word": "an"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 56,
+      "startOffset": 48,
+      "word": "argument"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 61,
+      "startOffset": 57,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 65,
+      "startOffset": 62,
+      "word": "its"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 71,
+      "startOffset": 66,
+      "word": "rider"
+    }
+  ]
+}

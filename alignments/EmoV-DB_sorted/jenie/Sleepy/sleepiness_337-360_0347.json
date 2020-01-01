@@ -1,0 +1,122 @@
+{
+  "transcript": "They are greatly delighted with anything that is bright or giveth a sound.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 4,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 8,
+      "startOffset": 5,
+      "word": "are"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 9,
+      "word": "greatly"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 26,
+      "startOffset": 17,
+      "word": "delighted"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 27,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 40,
+      "startOffset": 32,
+      "word": "anything"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 45,
+      "startOffset": 41,
+      "word": "that"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 48,
+      "startOffset": 46,
+      "word": "is"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 55,
+      "startOffset": 49,
+      "word": "bright"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 58,
+      "startOffset": 56,
+      "word": "or"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.1799999999999997,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 3.17,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.01,
+      "startOffset": 59,
+      "word": "giveth"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 5.05,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 5.04,
+      "startOffset": 66,
+      "word": "a"
+    },
+    {
+      "alignedWord": "sound",
+      "case": "success",
+      "end": 5.22,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.05,
+      "startOffset": 68,
+      "word": "sound"
+    }
+  ]
+}

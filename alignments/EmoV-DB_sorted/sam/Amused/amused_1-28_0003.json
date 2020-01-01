@@ -1,0 +1,165 @@
+{
+  "transcript": "For the twentieth time that evening the two men shook hands.",
+  "words": [
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 3.98,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.96,
+      "startOffset": 0,
+      "word": "For"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.0,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.98,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 17,
+      "startOffset": 8,
+      "word": "twentieth"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 18,
+      "word": "time"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 23,
+      "word": "that"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 28,
+      "word": "evening"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 39,
+      "startOffset": 36,
+      "word": "the"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 4.279999999999999,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.01,
+      "startOffset": 40,
+      "word": "two"
+    },
+    {
+      "alignedWord": "men",
+      "case": "success",
+      "end": 4.6,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.3,
+      "startOffset": 44,
+      "word": "men"
+    },
+    {
+      "alignedWord": "shook",
+      "case": "success",
+      "end": 4.79,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 4.6,
+      "startOffset": 48,
+      "word": "shook"
+    },
+    {
+      "alignedWord": "hands",
+      "case": "success",
+      "end": 5.6499999999999995,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.18,
+      "startOffset": 54,
+      "word": "hands"
+    }
+  ]
+}

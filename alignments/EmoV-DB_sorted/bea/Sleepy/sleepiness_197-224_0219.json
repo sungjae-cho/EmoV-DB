@@ -1,0 +1,301 @@
+{
+  "transcript": "At first he puzzled over something untoward he was sure had happened.",
+  "words": [
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 0,
+      "word": "At"
+    },
+    {
+      "alignedWord": "first",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 3,
+      "word": "first"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 9,
+      "word": "he"
+    },
+    {
+      "alignedWord": "puzzled",
+      "case": "success",
+      "end": 3.12,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 12,
+      "word": "puzzled"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 3.6500000000000004,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 20,
+      "word": "over"
+    },
+    {
+      "alignedWord": "something",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.65,
+      "startOffset": 25,
+      "word": "something"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.63,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.25,
+      "startOffset": 35,
+      "word": "untoward"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 5.9399999999999995,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 5.92,
+      "startOffset": 44,
+      "word": "he"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 5.970000000000001,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.94,
+      "startOffset": 47,
+      "word": "was"
+    },
+    {
+      "alignedWord": "sure",
+      "case": "success",
+      "end": 6.0,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 5.97,
+      "startOffset": 51,
+      "word": "sure"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 7.41,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.1899999999999995,
+      "startOffset": 56,
+      "word": "had"
+    },
+    {
+      "alignedWord": "happened",
+      "case": "success",
+      "end": 7.66,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.5,
+      "startOffset": 60,
+      "word": "happened"
+    }
+  ]
+}

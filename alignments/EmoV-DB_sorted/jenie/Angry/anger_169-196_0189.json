@@ -1,0 +1,204 @@
+{
+  "transcript": "The big-eyed, clucking moose-birds were most annoying.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.5499999999999998,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "big",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 4,
+      "word": "big"
+    },
+    {
+      "alignedWord": "eyed",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 8,
+      "word": "eyed"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.7699999999999996,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 14,
+      "word": "clucking"
+    },
+    {
+      "alignedWord": "moose",
+      "case": "success",
+      "end": 3.0999999999999996,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 23,
+      "word": "moose"
+    },
+    {
+      "alignedWord": "birds",
+      "case": "success",
+      "end": 3.4699999999999998,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 29,
+      "word": "birds"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 3.72,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.54,
+      "startOffset": 35,
+      "word": "were"
+    },
+    {
+      "alignedWord": "most",
+      "case": "success",
+      "end": 4.3100000000000005,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.72,
+      "startOffset": 40,
+      "word": "most"
+    },
+    {
+      "alignedWord": "annoying",
+      "case": "success",
+      "end": 4.8999999999999995,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.47,
+      "startOffset": 45,
+      "word": "annoying"
+    }
+  ]
+}

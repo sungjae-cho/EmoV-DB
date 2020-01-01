@@ -1,0 +1,167 @@
+{
+  "transcript": "He told himself that as he washed himself and groomed his disheveled clothes.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 7.01,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 6.99,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "told",
+      "case": "success",
+      "end": 7.05,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.01,
+      "startOffset": 3,
+      "word": "told"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 7.12,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_E"
+        }
+      ],
+      "start": 7.05,
+      "startOffset": 8,
+      "word": "himself"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 7.7700000000000005,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 7.74,
+      "startOffset": 16,
+      "word": "that"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 23,
+      "startOffset": 21,
+      "word": "as"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 26,
+      "startOffset": 24,
+      "word": "he"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 33,
+      "startOffset": 27,
+      "word": "washed"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 34,
+      "word": "himself"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 45,
+      "startOffset": 42,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 53,
+      "startOffset": 46,
+      "word": "groomed"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 57,
+      "startOffset": 54,
+      "word": "his"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 68,
+      "startOffset": 58,
+      "word": "disheveled"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 76,
+      "startOffset": 69,
+      "word": "clothes"
+    }
+  ]
+}

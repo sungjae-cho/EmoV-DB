@@ -1,0 +1,247 @@
+{
+  "transcript": "Her own betrayal of herself was like tonic to Philip.",
+  "words": [
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.9300000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 0,
+      "word": "Her"
+    },
+    {
+      "alignedWord": "own",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 4,
+      "word": "own"
+    },
+    {
+      "alignedWord": "betrayal",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 8,
+      "word": "betrayal"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 17,
+      "word": "of"
+    },
+    {
+      "alignedWord": "herself",
+      "case": "success",
+      "end": 3.66,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 20,
+      "word": "herself"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.69,
+      "startOffset": 28,
+      "word": "was"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 3.9499999999999997,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.86,
+      "startOffset": 32,
+      "word": "like"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.0600000000000005,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.95,
+      "startOffset": 37,
+      "word": "tonic"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 5.119999999999999,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.1,
+      "startOffset": 43,
+      "word": "to"
+    },
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 5.3100000000000005,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "p_E"
+        }
+      ],
+      "start": 5.12,
+      "startOffset": 46,
+      "word": "Philip"
+    }
+  ]
+}

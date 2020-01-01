@@ -1,0 +1,231 @@
+{
+  "transcript": "Then he stepped back with a low cry of pleasure.",
+  "words": [
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 0,
+      "word": "Then"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 5,
+      "word": "he"
+    },
+    {
+      "alignedWord": "stepped",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 8,
+      "word": "stepped"
+    },
+    {
+      "alignedWord": "back",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 16,
+      "word": "back"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 21,
+      "word": "with"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 26,
+      "word": "a"
+    },
+    {
+      "alignedWord": "low",
+      "case": "success",
+      "end": 2.81,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 28,
+      "word": "low"
+    },
+    {
+      "alignedWord": "cry",
+      "case": "success",
+      "end": 3.64,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.42,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 32,
+      "word": "cry"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.89,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.7,
+      "startOffset": 36,
+      "word": "of"
+    },
+    {
+      "alignedWord": "pleasure",
+      "case": "success",
+      "end": 4.9,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 39,
+      "word": "pleasure"
+    }
+  ]
+}

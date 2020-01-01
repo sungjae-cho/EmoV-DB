@@ -1,0 +1,121 @@
+{
+  "transcript": "That's the sub-foreman, explained Thorpe.",
+  "words": [
+    {
+      "alignedWord": "that's",
+      "case": "success",
+      "end": 2.69,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 0,
+      "word": "That's"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.7399999999999998,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 7,
+      "word": "the"
+    },
+    {
+      "alignedWord": "sub",
+      "case": "success",
+      "end": 3.09,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_E"
+        }
+      ],
+      "start": 3.0599999999999996,
+      "startOffset": 11,
+      "word": "sub"
+    },
+    {
+      "alignedWord": "foreman",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.09,
+      "startOffset": 15,
+      "word": "foreman"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 33,
+      "startOffset": 24,
+      "word": "explained"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 40,
+      "startOffset": 34,
+      "word": "Thorpe"
+    }
+  ]
+}

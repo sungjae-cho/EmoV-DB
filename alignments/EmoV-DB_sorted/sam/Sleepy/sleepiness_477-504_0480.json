@@ -1,0 +1,116 @@
+{
+  "transcript": "Tom Spink has a harpoon.",
+  "words": [
+    {
+      "alignedWord": "tom",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 0,
+      "word": "Tom"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.5,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 4,
+      "word": "Spink"
+    },
+    {
+      "alignedWord": "has",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 10,
+      "word": "has"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.61,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 14,
+      "word": "a"
+    },
+    {
+      "alignedWord": "harpoon",
+      "case": "success",
+      "end": 3.4299999999999997,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 16,
+      "word": "harpoon"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "transcript": "They do not know the length of time of incubation.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 5,
+      "word": "do"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 8,
+      "word": "not"
+    },
+    {
+      "alignedWord": "know",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 12,
+      "word": "know"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.41,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 3.41,
+          "phone": "sil"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 17,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 21,
+      "word": "length"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 28,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 31,
+      "word": "time"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 38,
+      "startOffset": 36,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 49,
+      "startOffset": 39,
+      "word": "incubation"
+    }
+  ]
+}

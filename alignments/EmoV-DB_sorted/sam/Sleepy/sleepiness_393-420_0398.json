@@ -1,0 +1,148 @@
+{
+  "transcript": "In the car were Unwin and Harrison, while Jones sat with the chauffeur.",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 0,
+      "word": "In"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 3,
+      "word": "the"
+    },
+    {
+      "alignedWord": "car",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 7,
+      "word": "car"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 3.88,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.65,
+      "startOffset": 11,
+      "word": "were"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.61,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.36,
+      "startOffset": 16,
+      "word": "Unwin"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 25,
+      "startOffset": 22,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 26,
+      "word": "Harrison"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 36,
+      "word": "while"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 47,
+      "startOffset": 42,
+      "word": "Jones"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 51,
+      "startOffset": 48,
+      "word": "sat"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 56,
+      "startOffset": 52,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 60,
+      "startOffset": 57,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 70,
+      "startOffset": 61,
+      "word": "chauffeur"
+    }
+  ]
+}

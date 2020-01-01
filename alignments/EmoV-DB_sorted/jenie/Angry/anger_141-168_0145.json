@@ -1,0 +1,77 @@
+{
+  "transcript": "I have to be careful of them, as they tear very easily.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 1,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 6,
+      "startOffset": 2,
+      "word": "have"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 9,
+      "startOffset": 7,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 10,
+      "word": "be"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 20,
+      "startOffset": 13,
+      "word": "careful"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 23,
+      "startOffset": 21,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 28,
+      "startOffset": 24,
+      "word": "them"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 32,
+      "startOffset": 30,
+      "word": "as"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 37,
+      "startOffset": 33,
+      "word": "they"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 42,
+      "startOffset": 38,
+      "word": "tear"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 47,
+      "startOffset": 43,
+      "word": "very"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 54,
+      "startOffset": 48,
+      "word": "easily"
+    }
+  ]
+}
