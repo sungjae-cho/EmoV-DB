@@ -25,6 +25,29 @@ to `http://openfst.org/twiki/pub/FST/FstDownload/openfst-$(OPENFST_VERSION).tar.
   - OpenBLAS (`apt-get install libopenblas-dev libopenblas-base`)
   - `sudo apt install gfortran`
 7. It should create a folder called "alignments" in the repo, with the same structure as the database, containing a json file for each sentence of the database.
+  - I showed the following problem that infinitely listens signals from threads. Thus, I edited `return self._map_async(func, iterable, mapstar, chunksize).get()` as `return self._map_async(func, iterable, mapstar, chunksize).get(timeout=20)` in File `"/usr/lib/python3.6/multiprocessing/pool.py"`, line 266, in `map`. This stops listening signals from threads for 20 seconds.
+```python
+Traceback (most recent call last):
+  File "align_db.py", line 116, in <module>
+    align_db(data)
+  File "align_db.py", line 93, in align_db
+    result = aligner.transcribe(wavfile, progress_cb=on_progress, logging=logging)
+  File "/data2/sungjaecho/Projects/gentle/gentle/forced_aligner.py", line 24, in transcribe
+    words, duration = self.mtt.transcribe(wavfile, progress_cb=progress_cb)
+  File "/data2/sungjaecho/Projects/gentle/gentle/transcriber.py", line 51, in transcribe
+    pool.map(transcribe_chunk, range(n_chunks))
+  File "/usr/lib/python3.6/multiprocessing/pool.py", line 266, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/usr/lib/python3.6/multiprocessing/pool.py", line 638, in get
+    self.wait(timeout)
+  File "/usr/lib/python3.6/multiprocessing/pool.py", line 635, in wait
+    self._event.wait(timeout)
+  File "/usr/lib/python3.6/threading.py", line 551, in wait
+    signaled = self._cond.wait(timeout)
+  File "/usr/lib/python3.6/threading.py", line 295, in wait
+    waiter.acquire()
+KeyboardInterrupt
+```
 
 8. The function "get_start_end_from_json(path)" allows you to extract start and end of the computed force alignment
 9. you can play a file with function "play(path)"
