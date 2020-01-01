@@ -16,14 +16,14 @@ It also allows to separate verbal and non-verbal vocalizations (laughs, yawns, e
 
 1. Go to https://github.com/lowerquality/gentle
 2. Clone the repo
-3. In Getting started, use the 3rd option: .\install.sh
+3. In Getting started, use the 3rd option: `./install.sh`
+- OpenBLAS (`apt-get install libopenblas-dev libopenblas-base`)
+- `sudo apt install gfortran`
+- First, run `./install.sh`. Change the openfst url in `ext/kaldi/tools/Makefile`: Change `http://openfst.cs.nyu.edu/twiki/pub/FST/FstDownload/openfst-$(OPENFST_VERSION).tar.gz`. Then, run `./install.sh`.
+to `http://openfst.org/twiki/pub/FST/FstDownload/openfst-$(OPENFST_VERSION).tar.gz`.
 4. Copy align_db.py in the repository
 5. In align_db.py, change the "path" variable so that it corresponds to the path of EmoV-DB.
 6. Launch command "python align_db.py". You'll probably have to install some packages to make it work
-  - Change the openfst url in `ext/kaldi/tools/Makefile`: Change `http://openfst.cs.nyu.edu/twiki/pub/FST/FstDownload/openfst-$(OPENFST_VERSION).tar.gz`
-to `http://openfst.org/twiki/pub/FST/FstDownload/openfst-$(OPENFST_VERSION).tar.gz`.
-  - OpenBLAS (`apt-get install libopenblas-dev libopenblas-base`)
-  - `sudo apt install gfortran`
 7. It should create a folder called "alignments" in the repo, with the same structure as the database, containing a json file for each sentence of the database.
   - I showed the following problem that infinitely listens signals from threads. Thus, I edited `return self._map_async(func, iterable, mapstar, chunksize).get()` as `return self._map_async(func, iterable, mapstar, chunksize).get(timeout=20)` in File `"/usr/lib/python3.6/multiprocessing/pool.py"`, line 266, in `map`. This stops listening signals from threads for 20 seconds.
 ```python
