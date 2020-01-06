@@ -50,8 +50,8 @@ KeyboardInterrupt
 ```
 
 8. The function "get_start_end_from_json(path)" allows you to extract start and end of the computed force alignment
-9. you can play a file with function "play(path)"
-10. you can play the part of the file in which there is speech according to the forced alignment with "play_start_end(path, start, end)"
+9. You can trim wavs with `trim_wavs_with_start_end()`.
+10. The order of the functions written below `__main__` is the order of the function I have excuted to generate json files in the directory `alignments`.
 
 # Overview of data
 
