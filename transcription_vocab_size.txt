@@ -1,0 +1,4 @@
+len(alpha_tokens) = 1698
+len(mixed_tokens) = 28
+len(nonalpha_tokens) = 7
+len(all_tokens) = 1733
